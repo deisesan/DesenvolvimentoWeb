@@ -14,5 +14,5 @@ Repositório criado para compartilhar os projetos desenvolvidos na disciplina de
 | Layout FrontEnd 3 - Responsivo | [Acessar](https://github.com/deisesan/DesenvolvimentoWeb/tree/e19e9bf98aad1437e397ee81bc98dd8dff6f6726/Layout%20FrontEnd%203%20-%20Responsivo) |  
 | Layout FrontEnd 4 - Responsivo IFNMG Site | [Acessar](https://github.com/deisesan/DesenvolvimentoWeb/tree/e19e9bf98aad1437e397ee81bc98dd8dff6f6726/Layout%20FrontEnd%204%20-%20Responsivo%20IFNMG%20Site) |  
 | Layout FrontEnd 5 - Responsivo Myhra | [Acessar](https://github.com/deisesan/DesenvolvimentoWeb/tree/e19e9bf98aad1437e397ee81bc98dd8dff6f6726/Layout%20FrontEnd%205%20-%20Responsivo%20Myhra) |  
-| Atividade prática FlexBox e Grids | [Acessar](#) |  
+| Atividade prática FlexBox e Grids | [Acessar](https://github.com/deisesan/DesenvolvimentoWeb/tree/cde8bb3d727cbae669f571cc7180eb9c25313942/Atividade%20pr%C3%A1tica%20FlexBox%20e%20Grids) |  
 | Atividade ref. Forms HTML+CSS+JS | [Acessar](#) |  
