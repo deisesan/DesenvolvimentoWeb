@@ -8,7 +8,6 @@ if (!isset($_SESSION['usuario'])) {
 if (isset($_GET['id']) && is_numeric($_GET['id'])) {
     $id = $_GET['id'];
 } else {
-    // Caso não receba um id válido
     header('Location: listar_produtos.php');
     exit;
 }

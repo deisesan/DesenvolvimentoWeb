@@ -31,7 +31,7 @@ if (!isset($_SESSION['usuario'])) {
     <div style="margin-top: 40px">
         <h3>Liberação de Requisições/Solicitações</h3>
         <div style="text-align: right; margin-top:20px;">
-            <a href="adicionar_solicitacao.php">
+            <a href="adicionar_requisicao.php">
                 <button type="button" class="btn btn-success btn-sm"><i class="far fa-edit"></i>&nbsp;Nova Solicitação</button>
             </a>
         </div>
